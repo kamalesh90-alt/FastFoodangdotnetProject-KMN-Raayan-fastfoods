@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "n5MpmZqdy4FxLoWnXMErks+P+odwAbvf3Vt9Smcy1wI=",
+  "Source": "FastFoodApi",
+  "BasePath": "_content/FastFoodApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "FastFoodApi\\wwwroot",
+      "Source": "FastFoodApi",
+      "ContentRoot": "C:\\Users\\Nirmal Raj\\Desktop\\Raayan Fast Foods\\FastFoodangdotnetProject-KMN-Raayan-fastfoods\\FastFoodApi\\FastFoodApi\\wwwroot\\",
+      "BasePath": "_content/FastFoodApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Nirmal Raj\\Desktop\\Raayan Fast Foods\\FastFoodangdotnetProject-KMN-Raayan-fastfoods\\FastFoodApi\\FastFoodApi\\wwwroot\\Images\\chickenpizza.jfif",
+      "SourceId": "FastFoodApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Nirmal Raj\\Desktop\\Raayan Fast Foods\\FastFoodangdotnetProject-KMN-Raayan-fastfoods\\FastFoodApi\\FastFoodApi\\wwwroot\\",
+      "BasePath": "_content/FastFoodApi",
+      "RelativePath": "Images/chickenpizza.jfif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\chickenpizza.jfif"
+    }
+  ]
+}
